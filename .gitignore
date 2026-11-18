@@ -1,0 +1,11 @@
+# Your own profile and resumes never get uploaded
+profile/
+tailored_resumes/
+tailored_resumes_with_job_keywords/
+*.pdf
+*.docx
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
